@@ -2,23 +2,23 @@
 <doc>
 <assembly>
 <name>
-IceCreamShop
+Fast-Food-System
 </name>
 </assembly>
 <members>
-<member name="T:IceCreamShop.My.Resources.Resources">
+<member name="T:Fast-Food-System.My.Resources.Resources">
 <summary>
   A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
 </member>
-<member name="P:IceCreamShop.My.Resources.Resources.ResourceManager">
+<member name="P:Fast-Food-System.My.Resources.Resources.ResourceManager">
 <summary>
   Returns the cached ResourceManager instance used by this class.
 </summary>
 </member>
-<member name="P:IceCreamShop.My.Resources.Resources.Culture">
+<member name="P:Fast-Food-System.My.Resources.Resources.Culture">
 <summary>
-  Overrides the current thread's CurrentUICulture property for all
+  Overrides current thread's CurrentUICulture property for all
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
